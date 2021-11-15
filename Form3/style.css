@@ -1,0 +1,65 @@
+    form {
+        background-color: rgb(228, 228, 76);
+        width: 500px;
+        margin: 0 auto;
+    }
+    
+    h2 {
+        background-color: aqua;
+        color: rgb(45, 176, 236);
+    }
+    
+    .ten {
+        margin-left: 5px;
+    }
+    
+    .name1 {
+        margin-left: 20px;
+        width: 40%;
+        margin-bottom: 10px;
+    }
+    
+    .name2 {
+        margin-left: 18px;
+        width: 20%;
+        margin-bottom: 10px;
+    }
+    
+    .gender {
+        margin-left: 25px;
+        margin-bottom: 10px;
+    }
+    
+    .address {
+        margin-left: 35px;
+        height: 100px;
+    }
+    
+    textarea {
+        margin-left: 90px;
+        margin-bottom: 10px;
+    }
+    
+    .label1 {
+        margin-left: 5px;
+    }
+    
+    .choose {
+        margin-left: 55px;
+        margin-bottom: 10px;
+    }
+    
+    .email {
+        margin-left: 41px;
+        margin-bottom: 10px;
+    }
+    
+    .phone {
+        margin-left: 6px;
+        margin-bottom: 10px;
+    }
+    
+    .input {
+        margin-left: 95px;
+        margin-bottom: 10px;
+    }

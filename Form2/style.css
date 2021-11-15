@@ -1,0 +1,56 @@
+form {
+    border: 10px solid rebeccapurple;
+    width: 400px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: red;
+}
+
+.names {
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+.email {
+    margin-bottom: 10px;
+}
+
+.email1 {
+    margin-left: 25px;
+}
+
+.love {
+    margin-left: 11px;
+}
+
+.like {
+    margin-left: 72px;
+}
+
+.like1 {
+    margin-left: 13px;
+}
+
+.like2 {
+    margin-left: 16px;
+}
+
+.like3 {
+    margin-left: 72px;
+    margin-bottom: 10px;
+}
+
+.like4 {
+    margin-left: 70px;
+}
+
+.love1 {
+    color: orange;
+}
+
+label {
+    color: rgb(50, 50, 231);
+}
