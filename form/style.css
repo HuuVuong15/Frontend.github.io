@@ -1,0 +1,9 @@
+.get {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+    width: 30%;
+    margin-left: 10px;
+}
+
+span {
+    color: red;
+}
